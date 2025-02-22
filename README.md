@@ -1,147 +1,210 @@
-### **5️⃣ Science Calculators**
+# **5️⃣ CalcHub Science Calculators**
+This repository contains a collection of science calculators designed to help users with various science-related computations, including mechanics, fluid dynamics, chemistry, biology, astronomy, and more.
 
-Tools for mechanics, fluid dynamics, chemistry, biology, astronomy, and other science-related computations.
+## Live Demo
 
-*   **Explore Science Calculators:** [https://calchub.vercel.app/category/science](https://calchub.vercel.app/category/science)
-*   **GitHub Repository:** [https://github.com/calchub-dev/calchub-science](https://github.com/calchub-dev/calchub-science)
+Explore the calculators live at: [https://calchub.vercel.app/category/science](https://calchub.vercel.app/category/science)
 
-![Science Calculator](https://your-image-url.com/science.png)
+## GitHub Repository
 
-**Subcategories:**
+[https://github.com/calchub-dev/calchub-science](https://github.com/calchub-dev/calchub-science)
 
-1.  **Mechanics:**
-    Description: Calculations related to motion, forces, energy, and momentum.
-    *   **Explore Mechanics Calculators:** [https://calchub.vercel.app/category/science/mechanics](https://calchub.vercel.app/category/science/mechanics)
-    ![Mechanics Calculator](https://your-image-url.com/mechanics.png)
+## Categories
 
-2.  **Fluid Dynamics:**
-    Description: Calculations related to fluid flow, pressure, and viscosity.
-    *   **Explore Fluid Dynamics Calculators:** [https://calchub.vercel.app/category/science/fluid-dynamics](https://calchub.vercel.app/category/science/fluid-dynamics)
-    ![Fluid Dynamics Calculator](https://your-image-url.com/fluids.png)
+### 1. Mechanics
 
-3.  **Waves and Optics:**
-    Description: Calculations related to wave properties, light, and optics.
-    *   **Explore Waves and Optics Calculators:** [https://calchub.vercel.app/category/science/waves-optics](https://calchub.vercel.app/category/science/waves-optics)
-    ![Waves and Optics Calculator](https://your-image-url.com/waves.png)
+Calculations related to motion, forces, energy, and momentum.
 
-4.  **Thermodynamics:**
-    Description: Calculations related to heat, energy, and entropy.
-    *   **Explore Thermodynamics Calculators:** [https://calchub.vercel.app/category/science/thermodynamics](https://calchub.vercel.app/category/science/thermodynamics)
-    ![Thermodynamics Calculator](https://your-image-url.com/thermodynamics.png)
+* Explore Mechanics Calculators: [https://calchub.vercel.app/category/science/mechanics](https://calchub.vercel.app/category/science/mechanics)
+* Image: ![Mechanics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/mechanics.png)
 
-5.  **Electromagnetism:**
-    Description: Calculations related to electric and magnetic fields.
-    *   **Explore Electromagnetism Calculators:** [https://calchub.vercel.app/category/science/electromagnetism](https://calchub.vercel.app/category/science/electromagnetism)
-    ![Electromagnetism Calculator](https://your-image-url.com/electromagnetism.png)
+### 2. Fluid Dynamics
 
-6.  **Quantum Physics:**
-    Description: Calculations related to quantum mechanics and atomic physics.
-    *   **Explore Quantum Physics Calculators:** [https://calchub.vercel.app/category/science/quantum-physics](https://calchub.vercel.app/category/science/quantum-physics)
-    ![Quantum Physics Calculator](https://your-image-url.com/quantum.png)
+Calculations related to fluid flow, pressure, and viscosity.
 
-7.  **Relativity:**
-    Description: Calculations related to special and general relativity.
-    *   **Explore Relativity Calculators:** [https://calchub.vercel.app/category/science/relativity](https://calchub.vercel.app/category/science/relativity)
-    ![Relativity Calculator](https://your-image-url.com/relativity.png)
+* Explore Fluid Dynamics Calculators: [https://calchub.vercel.app/category/science/fluid-dynamics](https://calchub.vercel.app/category/science/fluid-dynamics)
+* Image: ![Fluid Dynamics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/fluid-dynamics.png)
 
-8.  **General Chemistry:**
-    Description: Basic chemistry calculations, including stoichiometry and gas laws.
-    *   **Explore General Chemistry Calculators:** [https://calchub.vercel.app/category/science/general-chemistry](https://calchub.vercel.app/category/science/general-chemistry)
-    ![General Chemistry Calculator](https://your-image-url.com/chemistry.png)
+### 3. Waves and Optics
 
-9.  **Solutions and Concentrations:**
-    Description: Calculations related to solutions, concentrations, and dilutions.
-    *   **Explore Solutions and Concentrations Calculators:** [https://calchub.vercel.app/category/science/solutions-concentrations](https://calchub.vercel.app/category/science/solutions-concentrations)
-    ![Solutions Calculator](https://your-image-url.com/solutions.png)
+Calculations related to wave properties, light, and optics.
 
-10. **Thermochemistry:**
-    Description: Calculations related to heat and energy in chemical reactions.
-    *   **Explore Thermochemistry Calculators:** [https://calchub.vercel.app/category/science/thermochemistry](https://calchub.vercel.app/category/science/thermochemistry)
-    ![Thermochemistry Calculator](https://your-image-url.com/thermochemistry.png)
+* Explore Waves and Optics Calculators: [https://calchub.vercel.app/category/science/waves-optics](https://calchub.vercel.app/category/science/waves-optics)
+* Image: ![Waves and Optics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/waves-optics.png)
 
-11. **Kinetics and Equilibrium:**
-    Description: Calculations related to reaction rates and chemical equilibrium.
-    *   **Explore Kinetics and Equilibrium Calculators:** [https://calchub.vercel.app/category/science/kinetics-equilibrium](https://calchub.vercel.app/category/science/kinetics-equilibrium)
-    ![Kinetics Calculator](https://your-image-url.com/kinetics.png)
+### 4. Thermodynamics
 
-12. **Electrochemistry:**
-    Description: Calculations related to electrochemical cells and reactions.
-    *   **Explore Electrochemistry Calculators:** [https://calchub.vercel.app/category/science/electrochemistry](https://calchub.vercel.app/category/science/electrochemistry)
-    ![Electrochemistry Calculator](https://your-image-url.com/electrochemistry.png)
+Calculations related to heat, energy, and entropy.
 
-13. **Organic Chemistry:**
-    Description: Calculations related to organic compounds and reactions.
-    *   **Explore Organic Chemistry Calculators:** [https://calchub.vercel.app/category/science/organic-chemistry](https://calchub.vercel.app/category/science/organic-chemistry)
-    ![Organic Chemistry Calculator](https://your-image-url.com/organic.png)
+* Explore Thermodynamics Calculators: [https://calchub.vercel.app/category/science/thermodynamics](https://calchub.vercel.app/category/science/thermodynamics)
+* Image: ![Thermodynamics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/thermodynamics.png)
 
-14. **Physical Chemistry:**
-    Description: Calculations related to the physical properties of chemical systems.
-    *   **Explore Physical Chemistry Calculators:** [https://calchub.vercel.app/category/science/physical-chemistry](https://calchub.vercel.app/category/science/physical-chemistry)
-    ![Physical Chemistry Calculator](https://your-image-url.com/physicalchemistry.png)
+### 5. Electromagnetism
 
-15. **Human Biology:**
-    Description: Calculations related to human physiology and anatomy.
-    *   **Explore Human Biology Calculators:** [https://calchub.vercel.app/category/science/human-biology](https://calchub.vercel.app/category/science/human-biology)
-    ![Human Biology Calculator](https://your-image-url.com/humanbiology.png)
+Calculations related to electric and magnetic fields.
 
-16. **Genetics:**
-    Description: Calculations related to genetics and heredity.
-    *   **Explore Genetics Calculators:** [https://calchub.vercel.app/category/science/genetics](https://calchub.vercel.app/category/science/genetics)
-    ![Genetics Calculator](https://your-image-url.com/genetics.png)
+* Explore Electromagnetism Calculators: [https://calchub.vercel.app/category/science/electromagnetism](https://calchub.vercel.app/category/science/electromagnetism)
+* Image: ![Electromagnetism Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/electromagnetism.png)
 
-17. **Cell Biology:**
-    Description: Calculations related to cell structure and function.
-    *   **Explore Cell Biology Calculators:** [https://calchub.vercel.app/category/science/cell-biology](https://calchub.vercel.app/category/science/cell-biology)
-    ![Cell Biology Calculator](https://your-image-url.com/cellbiology.png)
+### 6. Quantum Physics
 
-18. **Ecology and Environment:**
-    Description: Calculations related to ecosystems and environmental science.
-    *   **Explore Ecology and Environment Calculators:** [https://calchub.vercel.app/category/science/ecology](https://calchub.vercel.app/category/science/ecology)
-    ![Ecology Calculator](https://your-image-url.com/ecology.png)
+Calculations related to quantum mechanics and atomic physics.
 
-19. **General Astronomy:**
-    Description: Basic astronomy calculations, including celestial mechanics.
-    *   **Explore General Astronomy Calculators:** [https://calchub.vercel.app/category/science/astronomy](https://calchub.vercel.app/category/science/astronomy)
-    ![General Astronomy Calculator](https://your-image-url.com/astronomy.png)
+* Explore Quantum Physics Calculators: [https://calchub.vercel.app/category/science/quantum-physics](https://calchub.vercel.app/category/science/quantum-physics)
+* Image: ![Quantum Physics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/quantum-physics.png)
 
-20. **Cosmology:**
-    Description: Calculations related to the origin and evolution of the universe.
-    *   **Explore Cosmology Calculators:** [https://calchub.vercel.app/category/science/cosmology](https://calchub.vercel.app/category/science/cosmology)
-    ![Cosmology Calculator](https://your-image-url.com/cosmology.png)
+### 7. Relativity
 
-21. **Astrophysics:**
-    Description: Calculations related to stars, galaxies, and other celestial objects.
-    *   **Explore Astrophysics Calculators:** [https://calchub.vercel.app/category/science/astrophysics](https://calchub.vercel.app/category/science/astrophysics)
-    ![Astrophysics Calculator](https://your-image-url.com/astrophysics.png)
+Calculations related to special and general relativity.
 
-22. **Geology:**
-    Description: Calculations related to earth science and geology.
-    *   **Explore Geology Calculators:** [https://calchub.vercel.app/category/science/geology](https://calchub.vercel.app/category/science/geology)
-    ![Geology Calculator](https://your-image-url.com/geology.png)
+* Explore Relativity Calculators: [https://calchub.vercel.app/category/science/relativity](https://calchub.vercel.app/category/science/relativity)
+* Image: ![Relativity Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/relativity.png)
 
-23. **Meteorology:**
-    Description: Calculations related to weather and atmospheric science.
-    *   **Explore Meteorology Calculators:** [https://calchub.vercel.app/category/science/meteorology](https://calchub.vercel.app/category/science/meteorology)
-    ![Meteorology Calculator](https://your-image-url.com/meteorology.png)
+### 8. General Chemistry
 
-24. **Oceanography:**
-    Description: Calculations related to ocean currents, tides, and marine science.
-    *   **Explore Oceanography Calculators:** [https://calchub.vercel.app/category/science/oceanography](https://calchub.vercel.app/category/science/oceanography)
-    ![Oceanography Calculator](https://your-image-url.com/oceanography.png)
+Basic chemistry calculations, including stoichiometry and gas laws.
 
-25. **Environmental Science:**
-    Description: Calculations related to environmental science and conservation.
-    *   **Explore Environmental Science Calculators:** [https://calchub.vercel.app/category/science/environmental-science](https://calchub.vercel.app/category/science/environmental-science)
-    ![Environmental Science Calculator](https://your-image-url.com/environmentalscience.png)
+* Explore General Chemistry Calculators: [https://calchub.vercel.app/category/science/general-chemistry](https://calchub.vercel.app/category/science/general-chemistry)
+* Image: ![General Chemistry Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/general-chemistry.png)
 
-26. **Scientific Data and Unit Conversion:**
-    Description: Tools for unit conversion and manipulation of scientific data.
-    *   **Explore Scientific Data and Unit Conversion Calculators:** [https://calchub.vercel.app/category/science/scientific-data](https://calchub.vercel.app/category/science/scientific-data)
-    ![Unit Conversion Calculator](https://your-image-url.com/unitconversion.png)
+### 9. Solutions and Concentrations
 
-27. **Advanced Scientific Calculators:**
-    Description: Calculators for advanced scientific computations.
-    *   **Explore Advanced Scientific Calculators:** [https://calchub.vercel.app/category/science/advanced-scientific](https://calchub.vercel.app/category/science/advanced-scientific)
-    ![Advanced Scientific Calculator](https://your-image-url.com/advanced.png)
+Calculations related to solutions, concentrations, and dilutions.
 
----
+* Explore Solutions and Concentrations Calculators: [https://calchub.vercel.app/category/science/solutions-concentrations](https://calchub.vercel.app/category/science/solutions-concentrations)
+* Image: ![Solutions Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/solutions-concentrations.png)
+
+### 10. Thermochemistry
+
+Calculations related to heat and energy in chemical reactions.
+
+* Explore Thermochemistry Calculators: [https://calchub.vercel.app/category/science/thermochemistry](https://calchub.vercel.app/category/science/thermochemistry)
+* Image: ![Thermochemistry Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/thermochemistry.png)
+
+### 11. Kinetics and Equilibrium
+
+Calculations related to reaction rates and chemical equilibrium.
+
+* Explore Kinetics and Equilibrium Calculators: [https://calchub.vercel.app/category/science/kinetics-equilibrium](https://calchub.vercel.app/category/science/kinetics-equilibrium)
+* Image: ![Kinetics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/kinetics-equilibrium.png)
+
+### 12. Electrochemistry
+
+Calculations related to electrochemical cells and reactions.
+
+* Explore Electrochemistry Calculators: [https://calchub.vercel.app/category/science/electrochemistry](https://calchub.vercel.app/category/science/electrochemistry)
+* Image: ![Electrochemistry Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/electrochemistry.png)
+
+### 13. Organic Chemistry
+
+Calculations related to organic compounds and reactions.
+
+* Explore Organic Chemistry Calculators: [https://calchub.vercel.app/category/science/organic-chemistry](https://calchub.vercel.app/category/science/organic-chemistry)
+* Image: ![Organic Chemistry Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/organic-chemistry.png)
+
+### 14. Physical Chemistry
+
+Calculations related to the physical properties of chemical systems.
+
+* Explore Physical Chemistry Calculators: [https://calchub.vercel.app/category/science/physical-chemistry](https://calchub.vercel.app/category/science/physical-chemistry)
+* Image: ![Physical Chemistry Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/physical-chemistry.png)
+
+### 15. Human Biology
+
+Calculations related to human physiology and anatomy.
+
+* Explore Human Biology Calculators: [https://calchub.vercel.app/category/science/human-biology](https://calchub.vercel.app/category/science/human-biology)
+* Image: ![Human Biology Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/human-biology.png)
+
+### 16. Genetics
+
+Calculations related to genetics and heredity.
+
+* Explore Genetics Calculators: [https://calchub.vercel.app/category/science/genetics](https://calchub.vercel.app/category/science/genetics)
+* Image: ![Genetics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/genetics.png)
+
+### 17. Cell Biology
+
+Calculations related to cell structure and function.
+
+* Explore Cell Biology Calculators: [https://calchub.vercel.app/category/science/cell-biology](https://calchub.vercel.app/category/science/cell-biology)
+* Image: ![Cell Biology Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/cell-biology.png)
+
+### 18. Ecology and Environment
+
+Calculations related to ecosystems and environmental science.
+
+* Explore Ecology and Environment Calculators: [https://calchub.vercel.app/category/science/ecology](https://calchub.vercel.app/category/science/ecology)
+* Image: ![Ecology Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/ecology.png)
+
+### 19. General Astronomy
+
+Basic astronomy calculations, including celestial mechanics.
+
+* Explore General Astronomy Calculators: [https://calchub.vercel.app/category/science/astronomy](https://calchub.vercel.app/category/science/astronomy)
+* Image: ![General Astronomy Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/astronomy.png)
+
+### 20. Cosmology
+
+Calculations related to the origin and evolution of the universe.
+
+* Explore Cosmology Calculators: [https://calchub.vercel.app/category/science/cosmology](https://calchub.vercel.app/category/science/cosmology)
+* Image: ![Cosmology Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/cosmology.png)
+
+### 21. Astrophysics
+
+Calculations related to stars, galaxies, and other celestial objects.
+
+* Explore Astrophysics Calculators: [https://calchub.vercel.app/category/science/astrophysics](https://calchub.vercel.app/category/science/astrophysics)
+* Image: ![Astrophysics Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/astrophysics.png)
+
+### 22. Geology
+
+Calculations related to earth science and geology.
+
+* Explore Geology Calculators: [https://calchub.vercel.app/category/science/geology](https://calchub.vercel.app/category/science/geology)
+* Image: ![Geology Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/geology.png)
+
+### 23. Meteorology
+
+Calculations related to weather and atmospheric science.
+
+* Explore Meteorology Calculators: [https://calchub.vercel.app/category/science/meteorology](https://calchub.vercel.app/category/science/meteorology)
+* Image: ![Meteorology Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/meteorology.png)
+
+### 24. Oceanography
+
+Calculations related to ocean currents, tides, and marine science.
+
+* Explore Oceanography Calculators: [https://calchub.vercel.app/category/science/oceanography](https://calchub.vercel.app/category/science/oceanography)
+* Image: ![Oceanography Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/oceanography.png)
+
+### 25. Environmental Science
+
+Calculations related to environmental science and conservation.
+
+* Explore Environmental Science Calculators: [https://calchub.vercel.app/category/science/environmental-science](https://calchub.vercel.app/category/science/environmental-science)
+* Image: ![Environmental Science Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/environmental-science.png)
+
+### 26. Scientific Data and Unit Conversion
+
+Tools for unit conversion and manipulation of scientific data.
+
+* Explore Scientific Data and Unit Conversion Calculators: [https://calchub.vercel.app/category/science/scientific-data](https://calchub.vercel.app/category/science/scientific-data)
+* Image: ![Unit Conversion Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/scientific-data.png)
+
+### 27. Advanced Scientific Calculators
+
+Calculators for advanced scientific computations.
+
+* Explore Advanced Scientific Calculators: [https://calchub.vercel.app/category/science/advanced-scientific](https://calchub.vercel.app/category/science/advanced-scientific)
+* Image: ![Advanced Scientific Calculator](https://github.com/calchub-dev/calchub-science/raw/main/images/advanced-scientific.png)
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
